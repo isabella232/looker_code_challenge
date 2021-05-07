@@ -21,14 +21,14 @@ Build out a dashboard or two that tells a story that you find interesting about 
 Save the dashboard or dashboards to your personal Folder in Looker
 
 Tips:
-Feel free to add measures or dimensions
-Customize labels to make the explore more user friendly
-Measures can be created using calculations on existing fields
+ - Feel free to add measures or dimensions
+ - Customize labels to make the explore more user friendly
+ - Measures can be created using calculations on existing fields
 
 Useful Looker documentation:
-https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml
-https://docs.looker.com/reference/explore-params/explore
-https://docs.looker.com/reference/view-params/view
-https://docs.looker.com/reference/field-reference/dimension-type-reference
-https://docs.looker.com/reference/field-reference/measure-type-reference
+ - https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml
+ - https://docs.looker.com/reference/explore-params/explore
+ - https://docs.looker.com/reference/view-params/view
+ - https://docs.looker.com/reference/field-reference/dimension-type-reference
+ - https://docs.looker.com/reference/field-reference/measure-type-reference
 
