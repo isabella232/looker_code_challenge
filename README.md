@@ -1,6 +1,7 @@
 Simpli.fi Looker Code Challenge - Report Writer
 
 The goals of this challenge are:
+
 Use Looker to create one or two dashboards using one or both of the test datasets
  - The dashboards should tell a coherent story about the data
 Use Looker's LookML language customize your reporting sandbox (the explores) in order to tell the story that you find interesting about this data
@@ -16,9 +17,9 @@ Join that view into the `game_of_thrones` explore in the `looker_code_challenge`
  - This will allow you to pull in the episode names for the GOT data
 
 Dashboard Steps:
-Access the explores through the "Explore" dropdown
-Build out a dashboard or two that tells a story that you find interesting about the data in either or both explores
-Save the dashboard or dashboards to your personal Folder in Looker
+ - Access the explores through the "Explore" dropdown
+ - Build out a dashboard or two that tells a story that you find interesting about the data in either or both explores
+ - Save the dashboard or dashboards to your personal Folder in Looker
 
 Tips:
  - Feel free to add measures or dimensions
