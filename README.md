@@ -8,12 +8,12 @@ Use Looker's LookML language customize your reporting sandbox (the explores) in 
  - Modify the LookML in any way to create new measures or dimensions when creating your dashboards
 
 Development Steps:
-Sign into Looker using the welcome email that you should have already recieved.
- - It went to the email we have on file.
-On the develoment tab, you'll find the `Looker Code Challenge` project
- - This will bring you to the code that generates the Explores that you'll be using to build your dashboards
-Create a view for the `coding_challenge.got_episode_names` table in the database
-Join that view into the `game_of_thrones` explore in the `looker_code_challenge` model
+ - Sign into Looker using the welcome email that you should have already recieved.
+   - It went to the email we have on file.
+ - On the develoment tab, you'll find the `Looker Code Challenge` project
+   - This will bring you to the code that generates the Explores that you'll be using to build your dashboards
+ - Create a view for the `coding_challenge.got_episode_names` table in the database
+ - Join that view into the `game_of_thrones` explore in the `looker_code_challenge` model
  - This will allow you to pull in the episode names for the GOT data
 
 Dashboard Steps:
