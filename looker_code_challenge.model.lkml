@@ -1,5 +1,6 @@
 connection: "vertica_test_coding_challenge"
 
+
 include: "/views/*.view.lkml"                # include all views in the views/ folder in this project
 
 explore: game_of_thrones {
