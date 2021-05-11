@@ -15,6 +15,7 @@ Development Steps:
  - Create a view for the `coding_challenge.got_episode_names` table in the database
  - Join that view into the `game_of_thrones` explore in the `looker_code_challenge` model
  - This will allow you to pull in the episode names for the GOT data
+ - Once your done with your LookML changes, be sure to commit your changes using the button at the top right hand corner of the screen when you're in the development environment. 
 
 Dashboard Steps:
  - Access the explores through the "Explore" dropdown
